@@ -22,12 +22,12 @@ header {
     
   }
 .baslik{
-  background-color: red;
+  background-color:rgb(15, 105, 169);
   width: 100%;
   height: 40%;
   font-size: 50px;
   text-align: center;
-  color: rgb(255, 255, 255);
+  color: rgb(19, 2, 2);
   font-family: "Italianno", cursive;
 }
   ul {
@@ -44,8 +44,8 @@ header {
   li a {
     display: block;
     padding: 12px 16px;
-    background-color: rgb(219, 0, 0);
-    color: antiquewhite;
+    background-color: rgb(28, 75, 150);
+    color: rgb(18, 10, 1);
     text-decoration: none;
     text-align: center;
     
@@ -58,12 +58,12 @@ header {
   .resim {
     margin-top: 40px;
     margin: auto ;
-    width: 1280px;
-    height: 710px;
+    width: 20%;
+    height: 30px;
     background: url(harita.jpg);
   }
   div.container{
-    width: 70%;
+    width: 80%;
     text-align: center;
     margin-left:250px ;
     color: #414141;;
@@ -77,23 +77,26 @@ footer {
     min-width: 140px;
     font-family: "Italianno", cursive;
     text-align: center;
-    color: rgb(0, 219, 15);
+    color: rgb(103, 28, 4);
     font-size: 50px;
     background-color: rgb(0, 0, 0);
     
 }
-.text-2{
-    margin-top: 50px;
+
+.text{
+    margin-top: 100px;
+    text-align:left;
+    color: rgb(16, 1, 1);
+    font-size: 15px;
+
 }
 
-.container-2{
-    width: 80%;
-}
-.resim-2{
-  margin: 5% 40%;
-    
    
+.text-2{
+    margin-top:90%;
+    
 }
+ 
 
 input[type=text],input[type=password]{
     width: 60%;
@@ -110,9 +113,9 @@ input[type=text]:focus,input[type=password]:focus{
     padding-left: 100px;
 }
 .girisdiv{
-    border: 5px solid black;
+    border: 5px solid rgb(1, 53, 102);
     margin: 3% 25%;
-    background-color: rgb(101, 138, 169);
+    background-color: rgb(203, 195, 201);
     width: 45%;
     height: 600px;
     padding-left: 8%;
@@ -121,8 +124,8 @@ input[type=text]:focus,input[type=password]:focus{
 
 img{
     margin-top: 5%;
-    margin-left: 20%;
-    margin-right: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .but{
     background-color: bisque;
@@ -144,3 +147,30 @@ h4{
     height: 80px;
     border-radius: 100%;
 }
+
+.titleSehir1 {
+  color: rgb(74, 5, 5);
+  font-size: xx-large;
+  background-color: bisque;
+}
+.titleSehir2 {
+  color: rgb(74, 5, 5);
+  font-size: xx-large;
+  background-color: bisque;
+}
+.titleSehir3 {
+  color: rgb(74, 5, 5);
+  font-size: xx-large;
+  background-color: bisque;
+}
+.titleSehir4 {
+  color: rgb(74, 5, 5);
+  font-size: xx-large;
+  background-color: bisque;
+}
+
+
+
+
+
+
